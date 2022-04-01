@@ -1,7 +1,7 @@
 import React from "react";
 
 
-import { MdOutlineSearch, MdMyLocation } from "react-icons/Md";
+import { MdOutlineSearch, MdMyLocation } from "react-icons/md";
 // import subcomponent named "widgetChild"
 import SearchBar from "./SearchBar"
 
