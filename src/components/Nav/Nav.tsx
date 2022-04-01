@@ -1,6 +1,6 @@
 import React from "react";
 import { IconContext } from "react-icons";
-import { MdHome, MdExplore, MdLocationCity, MdLightbulb } from "react-icons/Md";
+import { MdHome, MdExplore, MdLocationCity, MdLightbulb } from "react-icons/md";
 
 // import subcomponent named "widgetChild"
 // import WidgetChild from "./WidgetChild";
