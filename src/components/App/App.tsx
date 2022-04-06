@@ -1,7 +1,7 @@
 import React, { useEffect, useState, useCallback } from "react";
 import Nav from "../Nav";
 import SideBar from "../SideBar";
-import { MdOutlineSearch, MdMyLocation } from "react-icons/Md";
+// import { MdOutlineSearch, MdMyLocation } from "react-icons/md";
 import axios from "axios";
 import { API_KEY, BASE_URL } from "../../constant";
 import Header from "../Header";
